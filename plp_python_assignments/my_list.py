@@ -25,3 +25,5 @@ index_of_thirty = my_list.index(30)
 print(f"The index of 30: {index_of_thirty}")
 
 
+print(f"Final list: {my_list}")
+
